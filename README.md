@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <video src="https://raw.githubusercontent.com/AvengX/AvengX/main/hyprland_video.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AvengX&color=00e5ff&style=flat-square&label=CORE+TELEMETRY" alt="Profile Views" />
   <img src="https://img.shields.io/badge/System_Status-ONLINE-00e5ff?style=flat-square" alt="Status" />
 </p>
