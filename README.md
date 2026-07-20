@@ -189,8 +189,8 @@ Designed and deployed a responsive trade portal with inquiry dispatch verificati
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvengX&show_icons=true&bg_color=0D0E15&title_color=9D4EDD&icon_color=7B2CBF&text_color=FFFFFF&border_color=5A189A" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvengX&layout=compact&bg_color=0D0E15&title_color=9D4EDD&text_color=FFFFFF&border_color=5A189A" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=AvengX&show_icons=true&bg_color=0D0E15&title_color=9D4EDD&icon_color=7B2CBF&text_color=FFFFFF&border_color=5A189A" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=AvengX&layout=compact&bg_color=0D0E15&title_color=9D4EDD&text_color=FFFFFF&border_color=5A189A" alt="Top Languages" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvengX&theme=dark&background=0D0E15&fire=9D4EDD&ring=7B2CBF&stroke=5A189A&currStreakNum=9D4EDD&sideLabels=FFFFFF&sideNums=7B2CBF&dates=E0AAFF" alt="GitHub Streak" width="98%" />
@@ -201,7 +201,7 @@ Designed and deployed a responsive trade portal with inquiry dispatch verificati
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvengX&theme=radical&no-bg=false&no-frame=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=AvengX&theme=radical&no-bg=false&no-frame=false&margin-w=4" alt="Trophies" />
 </p>
 
 ---
