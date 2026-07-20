@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0a051b,1a0b36,3c096c,7b2cbf&height=250&section=header&text=AYUSH%20RAJ&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkle" alt="Capsule Render Wave Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a051b,1a0b36,3c096c,7b2cbf&height=250&section=header&text=AYUSH%20RAJ&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkle" alt="Capsule Render Wave Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -252,5 +252,5 @@ current_focus:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0a051b,1a0b36,3c096c,7b2cbf&height=120&section=footer" alt="Capsule Render Wave Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a051b,1a0b36,3c096c,7b2cbf&height=120&section=footer" alt="Capsule Render Wave Footer" width="100%"/>
 </p>
