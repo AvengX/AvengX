@@ -3,11 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;AI+/+ML+Specialist;Full+Stack+Developer;Product+Engineer" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Gen+AI+Enthusiast;React+Developer;ML+Practitioner" alt="Typing SVG Animation" />
 </p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech_in_CSE-7B2CBF?style=flat-square&logo=academia&logoColor=white" alt="B.Tech CSE Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/University-KIIT_University-5a189a?style=flat-square&logo=education&logoColor=white" alt="KIIT University Badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-India-9D4EDD?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" /></a>
 </p>
 
@@ -28,12 +29,12 @@
 
 ## 🌌 About Me
 
-I am a highly motivated Software Engineer and AI/ML Practitioner specializing in building scalable software systems and high-performance algorithms. With a strong academic background in Computer Science and Engineering, I bridge the gap between robust full-stack application development and advanced machine learning modeling. My core focus lies in architecting efficient backends, engineering data-driven solutions, and designing intelligent user-centric products. I thrive in high-impact environments that demand fast iteration, clean architecture, and analytical problem-solving.
+I am a Developer and Gen AI Enthusiast studying Computer Science and Engineering at **Kalinga Institute of Industrial Technology (KIIT)**. I specialize in building intelligent applications using Python, OpenAI APIs, and modern web frameworks like React. Passionate about Generative AI, Machine Learning, and creating data-driven scalable solutions, I have a strong track record of designing AI-driven frameworks and automating industrial workflows.
 
 ### 🎯 Open To
 * **Full-Time Software Engineering Roles**
-* **AI/ML Engineering Opportunities**
-* **Research Internships & Technical Collaborations**
+* **AI/ML Engineering Opportunities & Research Internships**
+* **Technical & Research Collaborations**
 
 ---
 
@@ -42,16 +43,16 @@ I am a highly motivated Software Engineer and AI/ML Practitioner specializing in
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,c,js,html,css,svg" alt="Languages" />
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,threejs,bootstrap" alt="Frontend" />
 
 ### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,postgres,mongodb" alt="Backend & DB" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,supabase" alt="Backend & DB" />
 
 ### 🛠️ Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" alt="DevOps & Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="DevOps & Tools" />
 
 </div>
 
@@ -61,82 +62,87 @@ I am a highly motivated Software Engineer and AI/ML Practitioner specializing in
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Deep Learning & Neural Networks** | Advanced | CNNs, RNNs, Transformers, model optimization, transfer learning |
-| **Data Science & Analytics** | Expert | Exploratory Data Analysis (EDA), NumPy, Pandas, Scikit-Learn, data visualization |
-| **Generative AI & LLMs** | Intermediate | Prompt engineering, API integration, Retrieval-Augmented Generation (RAG) |
-| **Computer Vision** | Intermediate | OpenCV, image preprocessing, object detection |
+| **Generative AI & LLMs** | Intermediate | OpenAI API integrations, Prompt Engineering, RAG (Retrieval-Augmented Generation) |
+| **Computer Vision** | Intermediate | Face-Recognition library, OpenCV, image preprocessing, biometric validation |
+| **Deep Learning Research** | Intermediate | GANs (Generative Adversarial Networks) and VAEs (Variational Autoencoders) |
+| **Voice Biometrics** | Intermediate | Resemblyzer speaker embeddings, voice feature extraction & authentication |
 
 ---
 
 ## 💻 Featured Projects
 
 <details>
-<summary>📂 <b>Ayush-Raj-Portfolio</b> — <i>Personal Developer Portfolio</i></summary>
+<summary>📂 <b>SnapClass (AI Attendance App)</b> — <i>Biometric Verification App</i></summary>
 <br>
 
 **Project description:**  
-A high-performance, responsive developer portfolio website designed to showcase professional achievements, technical skills, and active repositories with smooth animations and dynamic loading.
+An intelligent AI-powered attendance logging application using face recognition and voice biometrics to authenticate and register student presence in real time.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML5, CSS3, JS, Vercel | Single-page App | 99+ Lighthouse Score | HTTPS, Security Headers | Recruiter Engagement | [Link](https://github.com/AvengX/Ayush-Raj-Portfolio) |
+| Python, Streamlit, Supabase, Face-Recognition, Resemblyzer | Institutional | < 2s Auth Time | Secure API, Biometric Hashes | Automated Classroom Sync | [Link](https://ai-attendance-app-three.vercel.app/) |
 
 **Professional project explanation:**  
-Engineered a modular and SEO-friendly personal portfolio. Implemented custom interactive elements, CSS grid layouts, and lazy-loading for media assets to maximize page load speeds.
+Developed a biometric verification application combining voice and facial feature extractions. Leveraged Supabase for secure cloud storage of hashes and deployed a Streamlit web portal for administrative controls.
 </details>
 
 <details>
-<summary>📂 <b>gooba-website</b> — <i>Interactive Web Application</i></summary>
+<summary>📂 <b>Interactive Portfolio Website</b> — <i>3D Physics Portfolio</i></summary>
 <br>
 
 **Project description:**  
-An interactive web application built for public hosting with dynamic UI components, state management, and custom animations.
+A high-performance personal developer portfolio site highlighting technical skills and experience with interactive 3D physics simulations.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML5, CSS3, JS, Vercel | Production-ready Web App | <1.2s Load Time | Sanity Checks, Secure APIs | Open-Source Deploy | [Link](https://github.com/AvengX/gooba-website) |
+| ReactJS, Three.js, Rapier Physics, GSAP, Tailwind CSS | Public Web App | 95+ Lighthouse Score | HTTPS Encryption | Premium Brand Presence | [Link](https://github.com/AvengX/Ayush-Raj-Portfolio) |
 
 **Professional project explanation:**  
-Designed a client-facing web page with a modern design aesthetic. Leveraged responsive design practices to ensure seamless cross-device compatibility and optimized build size for deployment on Vercel.
+Engineered a 3D interface utilizing React Three Fiber and Rapier physics engines to simulate interactive gravity spheres containing developer tech stacks. Integrated custom cursors and fluid animations via GSAP.
 </details>
 
 <details>
-<summary>📂 <b>Algorithmic Analytics Engine</b> — <i>Quantitative Analysis Suite</i></summary>
+<summary>📂 <b>GOOBA Export Platform</b> — <i>Global Export Web Suite</i></summary>
 <br>
 
 **Project description:**  
-A local quantitative analysis suite for evaluating software algorithms and dataset properties.
+An interactive, SEO-optimized business website designed for global trading of natural, sustainable waste products.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Pandas, NumPy, C++ | Big Data Analysis | O(N) Processing Time | Local Isolation, Secure Parsing | Research Pipeline | [Link](https://github.com/AvengX) |
+| HTML5, CSS3, JavaScript, Web3Forms API | Production Enterprise | < 1.2s Load Time | Web3Forms Sanitization | Enhanced B2B Enquiries | [Link](https://github.com/AvengX/gooba-website) |
 
 **Professional project explanation:**  
-Developed algorithms in C++ for maximum execution speed, combined with Python scripts using NumPy and Pandas to analyze computation time and visualize profiling results.
+Designed and deployed a responsive trade portal with inquiry dispatch verification. Optimized CSS assets to guarantee cross-device styling and fast response times globally.
 </details>
 
 ---
 
 ## 💼 Experience
 
-### Software Engineer Intern
-**TechNova Solutions** | *May 2025 – July 2025*
-* TechNova Solutions is an enterprise product studio developing scalable web applications and data pipelines.
-* Designed and implemented relational database schemas using MySQL, improving query retrieval times by 25%.
-* Built responsive frontend components using JavaScript, CSS3, and HTML5, resulting in a 15% increase in mobile user retention.
-* Collaborated with senior engineers to integrate third-party REST APIs and secure backend endpoints.
-* Streamlined version control workflows with Git, reducing merge conflicts across the development team.
+### Vocational Training Intern
+**Tata Steel Ltd.** | *2025*
+* Designed and deployed the Smart Material Gate Pass System, reducing manual processing errors by 40%.
+* Analyzed industrial data handling and validation protocols inside Information Security & Data Protection divisions.
+* Collaborated with engineers to enforce compliance with internal cybersecurity requirements.
 
-`MySQL` `JavaScript` `HTML5` `CSS3` `Git` `REST APIs`
+`Information Security` `Data Protection` `System Automation` `Quality Control`
 
-### Open Source Contributor & Researcher
-**AvengX Labs / Self-Directed** | *Aug 2024 – Present*
-* Engaged in building open-source tools, solving complex DSA problems, and profiling algorithms.
-* Created multiple web utilities hosted on GitHub, earning positive feedback and open-source contributions.
-* Solved over 300+ algorithm challenges across LeetCode, CodeChef, and HackerRank in C++ and Python.
-* Profiled and optimized C++ data structures to minimize space complexity and latency.
+### Co-author & Researcher
+**ICCCN 2025 (Springer)** | *2025*
+* Co-authored a peer-reviewed research paper focused on Generative AI applications in the fashion industry.
+* Proposed an AI-driven framework leveraging Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) for design synthesis.
+* Presented findings on ML modeling efficiency and design generation accuracy.
 
-`C++` `Python` `Data Structures` `Algorithms` `Optimization`
+`Gen AI` `GANs` `VAEs` `Machine Learning` `Research` `Springer`
+
+### B.Tech CSE Student
+**KIIT University** | *2022 – 2026*
+* Pursuing Bachelor of Technology in Computer Science and Engineering with a CGPA of 7.82.
+* Awarded the KIIT Merit Scholarship for consistent academic performance.
+* Solved 150+ Data Structures and Algorithms problems on LeetCode and HackerRank.
+
+`C++` `Python` `Data Structures` `Algorithms` `SQL` `Computer Science`
 
 ---
 
@@ -146,10 +152,10 @@ Developed algorithms in C++ for maximum execution speed, combined with Python sc
 
 | Recognition | Details |
 | :--- | :--- |
-| **Global Rank Under 1000** | Achieved in multiple CodeChef competitive rounds |
-| **Top 5% Solver** | Solved extensive algorithmic problems on LeetCode with high performance ratings |
-| **Open Source Contributor** | Recognized contributor to web tools and developer utility repositories |
-| **Academic Excellence Award** | Consistently ranked in the top tier of the Computer Science program |
+| **Research Publication** | Co-authored paper accepted for Springer ICCCN 2025 conference |
+| **KIIT Merit Scholar** | Awarded scholarship for academic excellence at KIIT University |
+| **Tata Steel Project Launch** | Deployed material pass system reducing human verification errors by 40% |
+| **SQL Developer Certified** | Successfully certified in database querying and analysis on HackerRank |
 
 </div>
 
@@ -157,17 +163,15 @@ Developed algorithms in C++ for maximum execution speed, combined with Python sc
 
 ## 📜 Certifications
 
-### Amazon Web Services (AWS)
-* <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+### HackerRank
+* <img src="https://img.shields.io/badge/HackerRank-SQL_Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank SQL Badge" />
+* <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Problem Solving Badge" />
 
-### Oracle
-* <img src="https://img.shields.io/badge/Oracle-Java_SE_Certified_Associate-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Java SE Certified Associate" />
+### KIIT University
+* <img src="https://img.shields.io/badge/KIIT_University-Merit_Scholar-5a189a?style=flat-square&logo=education&logoColor=white" alt="KIIT Scholar Badge" />
 
-### NPTEL (National Programme on Technology Enhanced Learning)
-* <img src="https://img.shields.io/badge/NPTEL-Data_Structures_&_Algorithms-4B0082?style=flat-square&logo=academia&logoColor=white" alt="NPTEL Data Structures & Algorithms" />
-
-### Cisco
-* <img src="https://img.shields.io/badge/Cisco-CCNA_Introduction_to_Networks-1C79C0?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNA Badge" />
+### Springer ICCCN 2025
+* <img src="https://img.shields.io/badge/Springer-Research_Presenter-4B0082?style=flat-square&logo=academia&logoColor=white" alt="Springer ICCCN Badge" />
 
 ---
 
@@ -222,10 +226,10 @@ Developed algorithms in C++ for maximum execution speed, combined with Python sc
 
 ```yaml
 current_focus:
-  learning: "Advanced Deep Learning Architectures & Transformer Models"
-  building: "Scalable Full Stack Microservices & Distributed Databases"
-  exploring: "Retrieval-Augmented Generation (RAG) & Quantized LLM Fine-tuning"
-  open_to: "Full-Time Software Engineering & AI Developer roles"
+  learning: "Generative Adversarial Networks (GANs) & Voice Biometrics"
+  building: "AI-driven Attendance Logging & Streamlit Applications"
+  exploring: "Large Language Model APIs & Supabase Backend Scaling"
+  open_to: "Software Developer Internships & Research Opportunities"
 ```
 
 ---
