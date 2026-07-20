@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a051b,1a0b36,3c096c,7b2cbf&height=250&section=header&text=AYUSH%20RAJ&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkle" alt="Capsule Render Wave Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a051b,240046,5a189a,9d4edd,b5179e&height=250&section=header&text=AYUSH%20RAJ&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkle" alt="Capsule Render Wave Banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Gen+AI+Enthusiast;React+Developer;ML+Practitioner" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD00FF&center=true&vCenter=true&width=500&height=50&lines=Accessing+the+Wired...;Optimizing+neural+nets...;const+developer+%3D+%27Ayush+Raj%27%3B;print(%27Hello+World%27)" alt="Typing SVG Animation" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech_in_CSE-7B2CBF?style=flat-square&logo=academia&logoColor=white" alt="B.Tech CSE Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/University-KIIT_University-5a189a?style=flat-square&logo=education&logoColor=white" alt="KIIT University Badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-India-9D4EDD?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node-B.Tech_in_CSE-7B2CBF?style=flat-square&logo=academia&logoColor=white" alt="B.Tech CSE Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sector-KIIT_University-5a189a?style=flat-square&logo=education&logoColor=white" alt="KIIT University Badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Grid-India-9D4EDD?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AvengX/Ayush-Raj-Portfolio"><img src="https://img.shields.io/badge/Portfolio-avengx.github.io-5a189a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio Button" /></a>
-  <a href="https://linkedin.com/in/AyushRaj"><img src="https://img.shields.io/badge/LinkedIn-Ayush_Raj-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
-  <a href="mailto:ayushraj7654321@gmail.com"><img src="https://img.shields.io/badge/Email-ayushraj7654321%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Button" /></a>
-  <a href="https://github.com/AvengX"><img src="https://img.shields.io/badge/GitHub-AvengX-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Button" /></a>
+  <a href="https://github.com/AvengX/Ayush-Raj-Portfolio"><img src="https://img.shields.io/badge/Terminal-avengx.github.io-5a189a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio Button" /></a>
+  <a href="https://linkedin.com/in/AyushRaj"><img src="https://img.shields.io/badge/Link-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
+  <a href="mailto:ayushraj7654321@gmail.com"><img src="https://img.shields.io/badge/Signal-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Button" /></a>
+  <a href="https://github.com/AvengX"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Button" /></a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## 🌌 About Me
 
-I am a Developer and Gen AI Enthusiast studying Computer Science and Engineering at **Kalinga Institute of Industrial Technology (KIIT)**. I specialize in building intelligent applications using Python, OpenAI APIs, and modern web frameworks like React. Passionate about Generative AI, Machine Learning, and creating data-driven scalable solutions, I have a strong track record of designing AI-driven frameworks and automating industrial workflows.
+I am a Developer and Gen AI Enthusiast studying Computer Science and Engineering at **Kalinga Institute of Industrial Technology (KIIT)**. Operating at the intersection of full-stack engineering and intelligent machine learning models, I build automated frameworks and process-optimized systems. Like a node linked to the Wired, I focus on decoding complex datasets, training deep neural networks, and engineering interfaces that feel responsive and alive.
 
 ### 🎯 Open To
 * **Full-Time Software Engineering Roles**
@@ -248,9 +248,9 @@ current_focus:
 ## 🌌 Footer
 
 <p align="center">
-  <i>"Complexity is the enemy of execution; simplicity, speed, and precision are the architecture of excellence."</i>
+  <i>"If we all react the same way, we're predictable, and there's always more than one way to view a situation." — Ghost in the Shell</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a051b,1a0b36,3c096c,7b2cbf&height=120&section=footer" alt="Capsule Render Wave Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a051b,240046,5a189a,9d4edd,b5179e&height=120&section=footer" alt="Capsule Render Wave Footer" width="100%"/>
 </p>
