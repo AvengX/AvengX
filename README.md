@@ -138,7 +138,7 @@ Designed and deployed a responsive trade portal with inquiry dispatch verificati
 
 ### B.Tech CSE Student
 **KIIT University** | *2022 – 2026*
-* Pursuing Bachelor of Technology in Computer Science and Engineering with a CGPA of 7.82.
+* Pursuing Bachelor of Technology in Computer Science and Engineering.
 * Awarded the KIIT Merit Scholarship for consistent academic performance.
 * Solved 150+ Data Structures and Algorithms problems on LeetCode and HackerRank.
 
